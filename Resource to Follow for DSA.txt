@@ -1,0 +1,16 @@
+From where to pick the question for practice
+- striver sheet 
+- nados question 
+
+why ? -> - sir approch is more visualisation basis , 
+	 - striver updated question practice krenga 
+
+per week practice session : 2 hours / week ( 12 hours )
+	pomodoro : 30 mins/cycle
+		- 1 hour session
+		- 1 hour session
+ 
+language c++ only : as we need the logical solving ability
+
+DEADLINE : not know will decide after the 2nd week of routine 
+
