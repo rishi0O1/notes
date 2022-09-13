@@ -1,0 +1,12 @@
+- javac : compiler for java 
+- source file -> compile -> byte code ( independent of platform using virtual machine )
+    -> JVM mai run hoti ( JVM install hota hai system mai )
+- static typed language : e.g no property can be added dynamically to object or class 
+    Student s1 = new Student();
+    s1.greeting() ; // no function in class or object : give error 
+
+- FINAL : 
+    final int a = 12 ; // primitive type : make it constant 
+
+- 
+
