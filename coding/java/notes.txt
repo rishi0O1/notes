@@ -8,5 +8,6 @@
 - FINAL : 
     final int a = 12 ; // primitive type : make it constant 
 
-- 
+- garbage collector : 
+    - object destroy tabhi karenga jb memory mai effect padega 
 
